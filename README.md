@@ -9,11 +9,11 @@ So how does this work?
 
 If we take the ratios of the area of circle vs area of pi and equal it to the ratio of circle counts and square counts we get:
 
-\[
+$$
 \frac{\pi r^2}{4r^2} = \frac{\text{points in circle}}{\text{points in square}}
-\]
+$$
 
-\[
+$$
 \pi  = 4*\frac{\text{points in circle}}{\text{points in square}}
-\]
+$$
 
