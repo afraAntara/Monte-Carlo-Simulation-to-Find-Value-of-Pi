@@ -17,3 +17,5 @@ $$
 \pi  = 4*\frac{\text{points in circle}}{\text{points in square}}
 $$
 
+
+Isn't that AMAZING?
